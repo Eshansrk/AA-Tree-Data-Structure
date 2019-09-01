@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1460041481 source:c:\users\amhr\desktop\aatree\main.cpp
+	<iostream>
+	"AATree.h"
+
+1460041535 c:\users\amhr\desktop\aatree\aatree.h
+	<iostream>
+
+1460118846 source:c:\users\amhr\downloads\aatree\main.cpp
+	<iostream>
+	<fstream>
+	"AATree.h"
+
+1460118846 c:\users\amhr\downloads\aatree\aatree.h
+	<iostream>
+
+1460175243 source:h:\project3\aatree\main.cpp
+	<iostream>
+	<fstream>
+	"AATree.h"
+
+1460175707 h:\project3\aatree\aatree.h
+	<iostream>
+
